@@ -6,12 +6,12 @@ I really enjoy learning new languages and framework as well as deepening and Imp
 I also injoy getting me hands dirty in algorithm structure and problom-solving.
 
 ## Skills
-•	🍕 C, C++
-•	🌮 Python
-•	🥩 Java, JavaFX 
-•	🍔 Assembly
-•	🥐 PHP, JavaScript 
-•	🍿 FXML, HTML, CSS, SQL
+-	🍕 C, C++
+-	🌮 Python
+-	🥩 Java, JavaFX 
+-	🍔 Assembly
+-	🥐 PHP, JavaScript 
+-	🍿 FXML, HTML, CSS, SQL
 
 
 - 🔭 I’m currently working on Improving my programimng skills 

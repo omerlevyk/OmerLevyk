@@ -10,3 +10,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Linktin Profile] (https://www.linkedin.com/in/omer-levy-b30566a9/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I can not whistle.
+
+
+### Hi there! 👋
+
+I'm Omer from Isreal and I'm a CS student. I really enjoy learning new languages and framework as well as deepening and Improving my knowledge.
+I also injoy getting me hands dirty in algorithm structure and problom-solving.
+For more content you can check out my Linktin at https://www.linkedin.com/in/omer-levy-b30566a9/.

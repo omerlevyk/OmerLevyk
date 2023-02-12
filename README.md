@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Omer
 #### I am a CS student and a programmer
-Hi there! 👋 i'm Omer from Israel and I'm a CS student. I really enjoy learning new languages and framework as well as deepening and Improving my knowledge.
+I really enjoy learning new languages and framework as well as deepening and Improving my knowledge.
 I also injoy getting me hands dirty in algorithm structure and problom-solving.
 
 Skills: Java/ Python/ C,C++ / JS / HTML / CSS

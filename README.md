@@ -5,7 +5,14 @@
 I really enjoy learning new languages and framework as well as deepening and Improving my knowledge.
 I also injoy getting me hands dirty in algorithm structure and problom-solving.
 
-Skills: Java/ Python/ C,C++ / JS / HTML / CSS
+## Skills
+  🍕 C, C++
+  🌮 Python
+  🥩 Java, JavaFX 
+  🍔 Assembly
+	🥐 PHP, JavaScript 
+	🍿 FXML, HTML, CSS, SQL
+
 
 - 🔭 I’m currently working on Improving my programimng skills 
 - 🌱 I’m currently learning UDP/TCP 

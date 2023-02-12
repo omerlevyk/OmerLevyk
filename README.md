@@ -1,6 +1,6 @@
 ![I am a CS student and a programmer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-### Hi there 👋, my name is Omer
+## Hi there 👋, my name is Omer
 #### I am a CS student and a programmer
 I really enjoy learning new languages and framework as well as deepening and Improving my knowledge.
 I also injoy getting me hands dirty in algorithm structure and problom-solving.

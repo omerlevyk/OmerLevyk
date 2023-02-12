@@ -6,12 +6,12 @@ I really enjoy learning new languages and framework as well as deepening and Imp
 I also injoy getting me hands dirty in algorithm structure and problom-solving.
 
 ## Skills
-🍕 C, C++
-🌮 Python
-🥩 Java, JavaFX 
-🍔 Assembly
-🥐 PHP, JavaScript 
-🍿 FXML, HTML, CSS, SQL
+•	🍕 C, C++
+•	🌮 Python
+•	🥩 Java, JavaFX 
+•	🍔 Assembly
+•	🥐 PHP, JavaScript 
+•	🍿 FXML, HTML, CSS, SQL
 
 
 - 🔭 I’m currently working on Improving my programimng skills 
@@ -22,4 +22,3 @@ I also injoy getting me hands dirty in algorithm structure and problom-solving.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Omerlevyk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/omer-levy-b30566a9//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/17616844/omerlevyk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCLlwElBqNG7anRfnYTu6KUg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/omerlevyk)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Omerlevyk&show_icons=true)  
-
